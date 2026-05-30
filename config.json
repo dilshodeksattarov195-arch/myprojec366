@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsender",
+        "uuid": 349164,
+        "checksum": "wquid"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
